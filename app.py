@@ -290,7 +290,7 @@ def get_concert_list():
 # 5. 사이드바 (설정)
 # ==========================================
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Olympic_Park_Seoul_Logo.png/300px-Olympic_Park_Seoul_Logo.png", width=150)
+    st.header("🏟️ OlyMate")
     st.title("⚙️ 설정 (Settings)")
     
     # 다국어 모드 (발전가능성 어필)
